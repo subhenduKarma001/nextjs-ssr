@@ -1,0 +1,5 @@
+{
+    "prettier.arrowParens": "avoid",
+    "prettier.endOfLine": "auto",
+    "prettier.semi": false
+}
